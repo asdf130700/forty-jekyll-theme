@@ -6,12 +6,12 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://asdf130700.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: 
+city: 
+state: 
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Korea
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
